@@ -8,9 +8,8 @@ Moreover this protocol extend the current literature by enforcing the use of sta
 
 #Data sets
 
-For practicallity data sets are not included within this repository. Nonetheless, we include a direct link for downloading these sets, being the ones used for experimentation on the article that this supplementary material accompanies. 
+For practicallity data sets are not included within this repository. Nonetheless, we include a direct link for downloading these sets, being the ones used for experimentation on the article that this supplementary material accompanies. *(To download datasets: doi.org/10.17605/OSF.IO/MXNV9)*
 
-https://drive.google.com/drive/folders/1pShTajxXlFAuoIq_c28gZTlO0pF3YPEg?usp=share_link
 
 # Citation
 
